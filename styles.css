@@ -1,0 +1,35 @@
+
+body {
+    background-color: rgb(202, 229, 255);
+}
+input {
+    width: 308px;
+    height: 30px;
+    border: 2px solid rgb(8, 104, 194);
+}
+
+button {
+    margin-top: 5px;
+    width: 100px;
+    border: 2px solid rgb(8, 104, 194);
+    background-color: rgb(149, 204, 255);
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    padding: 5px 0px;
+    color: white;
+}
+a {
+    color: rgb(0, 132, 255);
+}
+ul {
+    margin-top: 20px;
+    list-style: none;
+    padding-left: 0px;
+}
+li a {
+    margin-top: 5px;
+}
+#delete-btn {
+    background-color: white;
+    color: rgb(8, 104, 194);
+    border: 2px solid rgb(8, 104, 194);
+}
